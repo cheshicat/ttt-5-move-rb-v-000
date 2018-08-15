@@ -11,7 +11,3 @@ index = input_to_index(input)
 move(board, index, value = "X")
 display_board(board)
 
-=======
-move(board, index, value)
-display_board("X")
->>>>>>> 30ec1aef55ccf608626c2f79d45d4f3d1db58749
